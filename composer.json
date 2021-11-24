@@ -1,6 +1,6 @@
 {
-    "name": "php-curl-class/php-curl-class",
-    "description": "PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs.",
+    "name": "3kbest/php-curl-class",
+    "description": "PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs. FORK",
     "homepage": "https://github.com/php-curl-class/php-curl-class",
     "license": "Unlicense",
     "keywords": [
